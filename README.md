@@ -39,8 +39,8 @@
 
 ## ✨My Github Stats
 <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman035&theme=algolia" alt="Aman035" height="192px" width="450px" />
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Aman035&show_icons=true&locale=en&theme=algolia" alt="Aman035" height="192px" width="450px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman035&theme=algolia" alt="Aman035" height="192px" width="400px" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Aman035&show_icons=true&locale=en&theme=algolia" alt="Aman035" height="192px" width="400px"/>
 </p>
 
 <p align="center">
