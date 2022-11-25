@@ -6,7 +6,7 @@
 
 <hr/>
 
-<h4 align="center">I am a Junior at IIIT-S. in CSE. I love to code, innovate and work on new challenges. I always try to learn new things and explore different fields. I love open-source contributions and learning from the community.</h4>
+<h4 align="center">I am a Senior at IIIT-S. in CSE. I love to code, innovate and work on new challenges. I always try to learn new things and explore different fields. I love open-source contributions and learning from the community.</h4>
 <br>
 
 ## 🛠️ My Skills
