@@ -1,12 +1,7 @@
 
 <h1 align="center">Hi , I'm Aman Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;BlockChain+Enthusiast;Competitive+Programmer&center=true&width=500&height=50"></a>
-</p>
 
-<hr/>
-
-<h4 align="center">I am a Senior at IIIT-S. in CSE. I love to code, innovate and work on new challenges. I always try to learn new things and explore different fields. I love open-source contributions and learning from the community.</h4>
+<h4 align="center">I'm a senior studying computer science at IIIT-S and I'm passionate about coding, innovation, and taking on new challenges. I'm constantly seeking opportunities to learn new things and explore different fields. I have a particular affinity for open-source projects and enjoy contributing to the community as much as possible. In my free time, you can find me experimenting with new technologies, brainstorming project ideas, or taking long walks to clear my mind. Let's connect and make something great together!</h4>
 <br>
 
 ## 🛠️ My Skills
@@ -50,6 +45,5 @@
 ## 🙋‍♂️Connect With Me
 <p align="center">
 	<a href="mailto:guptaaman200115@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Aman035"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/aman-gupta-2001/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
