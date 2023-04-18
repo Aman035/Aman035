@@ -45,5 +45,6 @@
 ## 🙋‍♂️Connect With Me
 <p align="center">
 	<a href="mailto:guptaaman200115@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://twitter.com/m_AmanGupta"><img src="https://user-images.githubusercontent.com/54989169/232682102-0f572a07-be1c-40e3-b808-701d16120411.png" alt="Twitter" height="50px"/></a>
 	<a href="https://www.linkedin.com/in/aman-gupta-2001/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
