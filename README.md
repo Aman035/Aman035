@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-    <img alt="Aman Gupta's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Aman035&theme=react-dark" />
+    <img alt="Aman Gupta's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Aman035&theme=react-dark" />
 </p>
 
 ## 🙋‍♂️Connect With Me
