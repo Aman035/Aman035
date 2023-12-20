@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Aman Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h4 align="center">I'm a senior studying computer science at IIIT-S and I'm passionate about coding, innovation, and taking on new challenges. I'm constantly seeking opportunities to learn new things and explore different fields. I have a particular affinity for open-source projects and enjoy contributing to the community as much as possible. In my free time, you can find me experimenting with new technologies, brainstorming project ideas, or taking long walks to clear my mind.</h4>
+<h4 align="center">I'm a Computer Science graduate from IIIT-S, passionate about coding and innovation. I thrive on challenges and am always eager to learn and explore different fields. My interest in open-source projects has led me to contribute to the community, enjoying the spirit of collaborative development. Beyond academics, I'm enthusiastic about experimenting with new technologies and brainstorming project ideas. My free time often finds me on long walks, which help me clear my mind and spark creativity.</h4>
 <br>
 
 ## 🛠️ My Skills
