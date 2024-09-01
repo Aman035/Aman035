@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Aman Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h4 align="center">I'm a Computer Science graduate from IIIT-S, passionate about coding and innovation. I thrive on challenges and am always eager to learn and explore different fields. My interest in open-source projects has led me to contribute to the community, enjoying the spirit of collaborative development. Beyond academics, I'm enthusiastic about experimenting with new technologies and brainstorming project ideas. My free time often finds me on long walks, which help me clear my mind and spark creativity.</h4>
+<h4 align="center">🚀 Core Dev @PushProtocol | 🎓 IIIT Graduate | 🌞 @summerofbitcoin'21 Alum | ⛓️ Blockchain Dev | 📚 Avid Reader</h4>
 <br>
 
 ## 🛠️ My Skills
