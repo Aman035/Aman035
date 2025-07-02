@@ -42,10 +42,10 @@
 - [Setting Up a Bitcoin Full Node](https://amangupta.hashnode.dev/setting-up-a-bitcoin-full-node)
 - [Exploring Bitcoin's Genesis Block and its Coinbase Transaction](https://amangupta.hashnode.dev/exploring-bitcoins-genesis-block-and-its-coinbase-transaction)
 
-## ✨My Github Stats
-<p>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Aman035&theme=algolia" alt="Aman035"/>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Aman035&show_icons=true&locale=en&theme=algolia" alt="Aman035"/>
+## ✨My GitHub Stats
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Aman035&theme=algolia" alt="Aman035" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aman035&show_icons=true&locale=en&theme=algolia" alt="Aman035" width="45%"/>
 </p>
 
 <p align="center">
