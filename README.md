@@ -55,6 +55,6 @@
 ## 🙋‍♂️Connect With Me
 <p align="center">
 	<a href="mailto:guptaaman200115@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://x.com/m_AmanGupta"><img src="https://img.icons8.com/?size=100&id=I02TdaPxbwRz&format=png&color=000000" alt="X" height="50px"/></a>
+	<a href="https://x.com/m_AmanGupta"><img src="https://img.icons8.com/?size=50&id=I02TdaPxbwRz&format=png&color=000000" alt="X" /></a>
 	<a href="https://www.linkedin.com/in/iam-amangupta/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
