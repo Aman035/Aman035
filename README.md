@@ -50,7 +50,7 @@
 
 ## ✨My GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aman035&theme=algolia" alt="Aman035 profile details" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aman035&theme=algolia&name=Aman%20Gupta" alt="Aman035 profile details" width="100%" />
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aman035&theme=algolia" alt="Aman035 stats" width="49%" />
