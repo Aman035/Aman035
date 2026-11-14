@@ -46,7 +46,6 @@
 
 ## ✍️Checkout My Blogs
 - [Setting Up a Bitcoin Full Node](https://amangupta.hashnode.dev/setting-up-a-bitcoin-full-node)
-- [Exploring Bitcoin's Genesis Block and its Coinbase Transaction](https://amangupta.hashnode.dev/exploring-bitcoins-genesis-block-and-its-coinbase-transaction)
 
 ## ✨My GitHub Stats
 <p align="center">
