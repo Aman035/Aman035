@@ -49,6 +49,13 @@
 
 ## ✨My GitHub Stats
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aman035&theme=algolia" alt="Aman035 profile details" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aman035&theme=algolia" alt="Aman035 stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aman035&theme=algolia" alt="Aman035 top languages by commit" width="49%" />
+</p>
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Aman035&theme=algolia" alt="Aman035 GitHub streak" />
 </p>
 
