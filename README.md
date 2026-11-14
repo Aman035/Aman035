@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Aman Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h4 align="center">🚀 Lead Dev @PushChain | 🎓 IIIT Graduate | 🌞 @summerofbitcoin'21 Alum | ⛓️ Blockchain Dev | 📚 Avid Reader</h4>
+<h4 align="center">💻 Software Engineer @PushChain | 🌐 Distributed Systems &amp; Backend | 🎓 IIIT Graduate | 🌞 @summerofbitcoin'21 Alum | 📚 Avid Reader</h4>
 <br>
 
 ## 🛠️ My Skills
