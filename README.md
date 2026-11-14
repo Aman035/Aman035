@@ -50,12 +50,7 @@
 
 ## ✨My GitHub Stats
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Aman035&theme=algolia" alt="Aman035" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman035&show_icons=true&locale=en&theme=algolia" alt="Aman035" width="45%"/>
-</p>
-
-<p align="center">
-    <img alt="Aman Gupta's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Aman035&theme=react-dark" />
+  <img src="https://streak-stats.demolab.com/?user=Aman035&theme=algolia" alt="Aman035 GitHub streak" />
 </p>
 
 ## 🙋‍♂️Connect With Me
